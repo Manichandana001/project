@@ -1,2 +1,0 @@
-This is a sample file for BC-CIAS-SIP testing.
-Sensitive data block.
