@@ -1,0 +1,10 @@
+CustomerID: CUST10239
+Name: Ramesh Kumar
+Email: ********
+Phone: 9876543210
+Aadhar: ********
+AccountNumber: ********
+Address: 12-4-56, MG Road, Hyderabad
+TransactionAmount: 45000
+TransactionDate: 2025-03-15
+Remarks: Salary Credit

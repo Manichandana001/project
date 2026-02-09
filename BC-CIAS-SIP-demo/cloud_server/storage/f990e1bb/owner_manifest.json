@@ -1,0 +1,30 @@
+[
+  {
+    "upload_id": "f990e1bb",
+    "index": 0,
+    "block": "block_0.bin",
+    "tag": "0f6d017f7fbad2ed4caecc9078d5bc206dc46ac5496f4b5bf02c52464ebaf4ef",
+    "masked": true
+  },
+  {
+    "upload_id": "f990e1bb",
+    "index": 1,
+    "block": "block_1.bin",
+    "tag": "7612f8061361920e66302214fb289a01e3a37b74bc7ce310f0770fb10e43097d",
+    "masked": true
+  },
+  {
+    "upload_id": "f990e1bb",
+    "index": 2,
+    "block": "block_2.bin",
+    "tag": "2dd9129c4cd63b9dc501332e0154c20766279d9ab4d6ce04921bf19e4a21754e",
+    "masked": true
+  },
+  {
+    "upload_id": "f990e1bb",
+    "index": 3,
+    "block": "block_3.bin",
+    "tag": "015f6ee9414d767645f7445e9be7699bc21dad260d0e3e27fc3b0eb2e44f94c6",
+    "masked": true
+  }
+]

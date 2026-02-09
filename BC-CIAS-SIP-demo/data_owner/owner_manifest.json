@@ -1,0 +1,9 @@
+{
+  "upload_id": "a2669d31",
+  "s3_key": "sanitized_sample.txt",
+  "hash": "268a499097bce44a7b92cdd2b7bb6d309e759de1ee5d526892491c03e66b46fb",
+  "masked_fields": [
+    "Email",
+    "Phone"
+  ]
+}

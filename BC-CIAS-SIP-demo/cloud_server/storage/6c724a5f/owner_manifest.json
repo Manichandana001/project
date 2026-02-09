@@ -1,0 +1,30 @@
+[
+  {
+    "upload_id": "6c724a5f",
+    "index": 0,
+    "block": "block_0.bin",
+    "tag": "0f6d017f7fbad2ed4caecc9078d5bc206dc46ac5496f4b5bf02c52464ebaf4ef",
+    "masked": true
+  },
+  {
+    "upload_id": "6c724a5f",
+    "index": 1,
+    "block": "block_1.bin",
+    "tag": "6a4a66bc235013b07b4c39aaf27ea3ed01834c160b7d9bf8ec62bf9164c6b206",
+    "masked": true
+  },
+  {
+    "upload_id": "6c724a5f",
+    "index": 2,
+    "block": "block_2.bin",
+    "tag": "0cf246e9df13af4bea13b4946424fca1333778b2b268a7f70ea4e3025660a7ec",
+    "masked": true
+  },
+  {
+    "upload_id": "6c724a5f",
+    "index": 3,
+    "block": "block_3.bin",
+    "tag": "cc260f26288eff0cafecda7e71d6652e4c53f7f0ef1f43dff97fe65ac3d67615",
+    "masked": true
+  }
+]
